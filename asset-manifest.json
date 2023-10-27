@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-ShopFilter/static/css/main.e5e64afc.css",
+    "main.js": "/React-ShopFilter/static/js/main.b7929fe6.js",
+    "index.html": "/React-ShopFilter/index.html",
+    "main.e5e64afc.css.map": "/React-ShopFilter/static/css/main.e5e64afc.css.map",
+    "main.b7929fe6.js.map": "/React-ShopFilter/static/js/main.b7929fe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e64afc.css",
+    "static/js/main.b7929fe6.js"
+  ]
+}
